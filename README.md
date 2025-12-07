@@ -8,4 +8,4 @@ if the session and token are strill valid, caching that makes super fast.  Login
 
 I'm sure you could make this work with the cloud provision ISR website, but I thought that might be abusive use, since this is for openning and closing the gate.
 
-This would have not been needed if Provision would have provided a Linux SDK rather than a .Net with precompiled DLLs that require wine to work on Linux.
+This would have not been needed if Provision would have provided a Linux SDK rather than a .Net with precompiled DLLs that require wine to work on Linux.  That was a mess to get working and days of effort.
